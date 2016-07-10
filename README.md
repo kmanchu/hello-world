@@ -5,3 +5,5 @@ adding in a line for 3rd commit
 this is the end of the second commit
 
 this is the end of the third commit
+
+this is a new commit for me
